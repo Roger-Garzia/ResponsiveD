@@ -1,2 +1,2 @@
-# ResponsiveD
-Diseño Responsivo
+# desarrollo-web-portafolio
+Proyecto realizado 
